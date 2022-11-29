@@ -1,3 +1,5 @@
+'use-client'
+
 type Feed = {
     id: number,
     title: string,
